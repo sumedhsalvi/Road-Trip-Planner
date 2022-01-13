@@ -5,7 +5,7 @@ Goal is to find the best route according to the specified cost
 function, as well as the number of segments, number of miles, 
 number of hours for a car driver, and expected number of hours for the delivery driver.
 
-## Given Conditions-
+## Given Conditions
 
 - Dataset of major highway segments of the United States including 
 one line per road segment connecting two cities. The space delimited 
